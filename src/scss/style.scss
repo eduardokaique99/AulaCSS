@@ -8,7 +8,11 @@ body {
     display: flex-end;
     justify-content: none;
     padding: 0;
+    margin: 0;
     .menu-item {
         color: $corbase;
+        a{
+            color: tomato;
+        }
     }
 }

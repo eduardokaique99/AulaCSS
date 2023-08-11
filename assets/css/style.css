@@ -6,9 +6,13 @@ body {
   display: flex-end;
   justify-content: none;
   padding: 0;
+  margin: 0;
 }
 .menu .menu-item {
   color: "#3F64F0";
+}
+.menu .menu-item a {
+  color: tomato;
 }
 
 /*# sourceMappingURL=style.css.map */
