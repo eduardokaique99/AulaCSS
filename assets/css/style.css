@@ -1,0 +1,14 @@
+body {
+  font-family: sans-serif;
+}
+
+.menu {
+  display: flex-end;
+  justify-content: none;
+  padding: 0;
+}
+.menu .menu-item {
+  color: "#3F64F0";
+}
+
+/*# sourceMappingURL=style.css.map */

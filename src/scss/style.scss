@@ -1,0 +1,14 @@
+$corbase: "#3F64F0";
+
+body {
+    font-family: sans-serif;
+}
+
+.menu {
+    display: flex-end;
+    justify-content: none;
+    padding: 0;
+    .menu-item {
+        color: $corbase;
+    }
+}

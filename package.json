@@ -1,0 +1,14 @@
+{
+  "name": "aulascss",
+  "version": "1.0.0",
+  "description": "Aula sobre css",
+  "main": "index.js",
+  "scripts": {
+    "sass" : "sass --watch ./src/scss/style.scss ./assets/css/style.css"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "sass": "^1.65.1"
+  }
+}
