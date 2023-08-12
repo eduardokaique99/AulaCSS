@@ -3,7 +3,7 @@ body {
 }
 
 .menu {
-  display: flex-end;
+  display: flex;
   justify-content: none;
   padding: 0;
   margin: 0;
